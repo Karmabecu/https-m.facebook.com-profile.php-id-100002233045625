@@ -34,3 +34,4 @@ jobs:
       with:
         user: __https://m.facebook.com/profile.php?id=100002233045625
         password: ${{ secrets.PYPI_API_TOKEN }}
+run
